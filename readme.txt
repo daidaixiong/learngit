@@ -1,2 +1,2 @@
 Hello World
-Life sucks
+Life really sucks!
